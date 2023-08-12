@@ -1,0 +1,14 @@
+table {
+  border-collapse: separate;
+  /* border-spacing: 10px; */
+}
+
+/* Style the table cells with borders */
+td {
+  /* border: 1px solid black; */
+  margin: 10px;
+  padding: 10px;
+}
+.card {
+  display: flex;
+}
